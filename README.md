@@ -1,2 +1,1 @@
-# transformer-squared
-Transformer^2
+#  Transformer^2: Residual Stream Duality in Modern Transformer Architectures
