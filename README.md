@@ -5,6 +5,7 @@
 **Author:** Yifan Zhang  
 **Date:** March 16, 2026 
 
+![](Duality.png) 
 
 ## Citation
 
