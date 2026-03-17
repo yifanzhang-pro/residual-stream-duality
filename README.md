@@ -1,9 +1,9 @@
 #  Residual Stream Duality in Modern Transformer Architectures
 
-Paper: [https://yifanzhang-pro.github.io/residual-stream-duality/Residual_Stream_Duality.pdf](https://yifanzhang-pro.github.io/residual-stream-duality/Residual_Stream_Duality.pdf) 
+**Paper:** [https://yifanzhang-pro.github.io/residual-stream-duality/Residual_Stream_Duality.pdf](https://yifanzhang-pro.github.io/residual-stream-duality/Residual_Stream_Duality.pdf) 
 
 **Author:** Yifan Zhang  
-**Date:** March 16, 2026
+**Date:** March 16, 2026 
 
 
 ## Citation
