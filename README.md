@@ -20,11 +20,9 @@ The residual stream in Transformers can be viewed through a two-axis framework w
 
 ```bibtex
 @article{zhang2026residual,
-  title = {Residual Stream Duality in Modern Transformer Architectures},
-  author = {Zhang, Yifan},
-  journal = {yifanzhang-pro.github.io},
-  year = {2026},
-  month = {March},
-  url = "https://github.com/yifanzhang-pro/residual-stream-duality"
+  title={Residual Stream Duality in Modern Transformer Architectures},
+  author={Zhang, Yifan},
+  journal={arXiv preprint arXiv:2603.16039},
+  year={2026}
 }
 ```
